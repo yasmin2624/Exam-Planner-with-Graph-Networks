@@ -12,9 +12,13 @@ The idea is inspired by **Graph Coloring**, where courses are represented as nod
 - Provides flexibility for handling different exam constraints.  
 
 ## 📂 Project Structure
+
 ├── Networks.ipynb # Main Jupyter Notebook containing implementation
+
 ├── data/ # (Optional) Directory for input datasets
+
 ├── images/ # (Optional) Graph visualization outputs
+
 ├── README.md # Project documentation
 
 

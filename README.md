@@ -49,8 +49,8 @@ jupyter notebook
 Run the cells inside Networks.ipynb.
 
 📊 Example Output 
--Graph visualization showing how courses are connected.
--Assigned time slots for each course with minimal conflicts.
-Graph visualization showing how courses are connected.
 
-Assigned time slots for each course with minimal conflicts.
+-Graph visualization showing how courses are connected.
+
+-Assigned time slots for each course with minimal conflicts.
+

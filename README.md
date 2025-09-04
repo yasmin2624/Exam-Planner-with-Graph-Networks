@@ -48,7 +48,8 @@ Open Jupyter Notebook:
 jupyter notebook
 Run the cells inside Networks.ipynb.
 
-📊 Example Output 
+
+## 📊 Example Output 
 
 -Graph visualization showing how courses are connected.
 

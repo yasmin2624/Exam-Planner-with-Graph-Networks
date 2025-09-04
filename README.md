@@ -39,8 +39,11 @@ The idea is inspired by **Graph Coloring**, where courses are represented as nod
    ```bash
    git clone https://github.com/yasmin2624/Exam-Planner-with-Graph-Networks.git
    cd Exam-Planner-with-Graph-Networks
+   
 Install dependencies:
+
 pip install -r requirements.txt
+
 (If requirements.txt not available, install manually: pip install networkx matplotlib jupyter)
 
 Open Jupyter Notebook:
